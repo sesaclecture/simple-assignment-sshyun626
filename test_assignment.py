@@ -11,4 +11,4 @@ def test_number_content():
     assert len(assignment.numbers) == 3
 
 def test_is_student():
-    assert assignment.is_student is True
+    assert assignment.is_student == True
