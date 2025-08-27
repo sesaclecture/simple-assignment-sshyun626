@@ -1,5 +1,5 @@
-name = "이동현"
-age = 25
+name = "Alice"
+age = 20
 numbers = [1, 2, 3]
 is_student = True
 
