@@ -6,7 +6,6 @@ def test_name_type():
 def test_age_type():
     assert isinstance(assignment.age, int)
 
-def test_number_content():
 def test_numbers_content():
     assert 2 in assignment.numbers
     assert len(assignment.numbers) == 3
