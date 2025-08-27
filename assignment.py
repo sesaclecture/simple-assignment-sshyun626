@@ -1,0 +1,9 @@
+name = "이동현"
+age = 25
+numbers = [1, 2, 3]
+is_student = False
+
+print(f"이름: {name}")
+print(f"나이: {age}")
+print(f"숫자 리스트: {numbers}")
+print(f"학생 여부: {is_student}")
