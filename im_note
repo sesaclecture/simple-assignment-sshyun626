@@ -1,0 +1,28 @@
+name = "Jeong"
+
+print(f"Hello, {name}")
+print(type(name))
+
+menus = {
+    "Amercano":3000,
+    "Latte":3500,
+    "Cappuccino":4000,
+    "Mocha":4500
+}
+
+score = int(input("Type your score:"))
+
+print(score)
+print(type(score))
+print(score+1)
+print(str(score)+"1")
+
+name = input("Name:")
+gender = input(("Male-1/Female-2"))
+email = input("Email:")
+
+print("[User Information]")
+print(f"Name: {name}")
+print(f"Gender: {"Male" if gender=="1" else "Female"}")
+print(f"Email: {email}")
+

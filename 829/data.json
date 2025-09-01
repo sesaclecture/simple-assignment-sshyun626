@@ -1,0 +1,9 @@
+{
+    "name": "홍길동",
+    "age": 25,
+    "hobbies": [
+        "reading",
+        "coding",
+        "traveling"
+    ]
+}
